@@ -1,2 +1,0 @@
-# WPWcaptcha
-Wordpress Wsoum Captcha
